@@ -11,12 +11,12 @@ próximo ao usuário do App.
 
 ## Integrantes
 
-:mortar_board: Caio César Santos Rezende
-:mortar_board: Felipe Joseph Siqueira de Almeida
-:mortar_board: Gabriel Yan Moreira Laignier
-:mortar_board: Pedro Henrique Gomes de Souza
-:mortar_board: Simon Henrique Souza Capanema
-:mortar_board: Tatiana Martins Loureiro
+ * :star: Caio César Santos Rezende
+ * :star: Felipe Joseph Siqueira de Almeida
+ * :star: Gabriel Yan Moreira Laignier
+ * :star: Pedro Henrique Gomes de Souza
+ * :star: Simon Henrique Souza Capanema
+ * :star: Tatiana Martins Loureiro
 
 ## Orientador 
 
