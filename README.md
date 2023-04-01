@@ -11,16 +11,16 @@ próximo ao usuário do App.
 
 ## Integrantes
 
-* Felipe Joseph S de Almeida
-* Caio César Santos Rezende
-* Simon Henrique Santos Rezende
-* Gabriel Yan Moreira Laignier
-* Pedro Henrique Gomes de Souza
-* Tatiana Loureiro
+:mortar_board: Caio César Santos Rezende
+:mortar_board: Felipe Joseph Siqueira de Almeida
+:mortar_board: Gabriel Yan Moreira Laignier
+:mortar_board: Pedro Henrique Gomes de Souza
+:mortar_board: Simon Henrique Souza Capanema
+:mortar_board: Tatiana Martins Loureiro
 
-## Orientador
+## Orientador 
 
-* Wagner Cipriano da Silva
+:trophy: Wagner Cipriano da Silva
 
 ## Instruções de utilização
 
