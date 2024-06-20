@@ -1,0 +1,33 @@
+message: Please cite this software using these metadata.
+title: Preço Certo
+authors:
+  - family-names: Santos Rezende
+    given-names:  Caio César
+
+  - family-names: Siqueira de Almeida
+    given-names:  Felipe
+
+  - family-names: Moreira Laignier
+    given-names:  Gabriel Yan
+
+  - family-names: Gomes de Souza
+    given-names:  Pedro Henrique
+
+  - family-names: Souza Capanema
+    given-names:  Simon Henrique
+
+  - family-names: Martins Loureiro
+    given-names:  Tatiana
+    
+  - name-suffix:  Professor
+    affiliation:  PUC Minas
+    family-names: Cipriano da Silva
+    given-names:  Wagner
+
+keywords:
+  - Gestão
+  - Supermercados
+  - Preços
+
+repository-code: https: https://github.com/FelipeAlmeida010/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-2
+date-released: 2023-03-31
